@@ -6,7 +6,6 @@
 
 import random
 import time
-import numpy as np
 
 roomName = '' #For this newbie project, we will have main, purple, and yellow rooms.
 doorPried = '' #The door to the purple room has to be pried open. This is a true/false on whether the that has been done yet.
